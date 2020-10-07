@@ -7,6 +7,7 @@
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
 - [Lacee Xu](https://github.com/laceett)
+- [Anuraag Mahajan](https://github.com/anuraagm19)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
